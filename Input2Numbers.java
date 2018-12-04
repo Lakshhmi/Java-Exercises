@@ -10,5 +10,10 @@ public class Input2Numbers {
         int y = input.nextInt();
         int z =x*y;
         System.out.println("Product of " +x+ " and " +y +" = "+ z);
+
+        //Getting Float input
+        System.out.println("Enter float :");
+        float myFloat = input.nextFloat();
+        System.out.println("Entered Float number " + myFloat);
     }
 }
