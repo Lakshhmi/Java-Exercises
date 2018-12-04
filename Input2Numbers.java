@@ -15,5 +15,10 @@ public class Input2Numbers {
         System.out.println("Enter float :");
         float myFloat = input.nextFloat();
         System.out.println("Entered Float number " + myFloat);
+
+        //Getting double input
+        System.out.println("Enter double ");
+        double myDouble = input.nextDouble();
+        System.out.println("Entered Double number " + myDouble);
     }
 }
