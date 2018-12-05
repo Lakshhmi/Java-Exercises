@@ -1,6 +1,6 @@
 package ExDec01;
 import java.util.Scanner;
-
+// Choose Grade based on the testscore;
 public class Conditions {
     char grade;
 
