@@ -20,19 +20,19 @@ public class Methods {
             int x = 10;
             int y = 3;
             a = x + y;
-            System.out.println("Method 1 = " + (x + y));
+            System.out.println("Method 1 = " + a);
         }
         public  void method2() {
             int x = 5;
             int y = 6;
-            b = x + y;
-            System.out.println("Method 2 = " + (x + y));
+            b = x * y;
+            System.out.println("Method 2 = " + b);
         }
         public  void method3() {
             int x = 20;
             int y = 14;
-            c = x + y;
-            System.out.println("Method 3 = " + (x + y));
+            c = x - y;
+            System.out.println("Method 3 = " + c);
 
         }
 
