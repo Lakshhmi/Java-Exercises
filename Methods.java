@@ -8,6 +8,7 @@ public class Methods {
     public static void main(String[] args) {
 
         System.out.println("Methods :");
+        // Call methods from static to non-static
         Methods methodObj = new Methods();
         methodObj.method1();
         methodObj.method2();
