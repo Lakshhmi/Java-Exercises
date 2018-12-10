@@ -1,6 +1,8 @@
 package ExDec01;
 import java.util.Scanner;
 
+// Write a program to convert inches to meter
+
 public class ConvertInch2Meter {
     public static void main(String[] argS){
         System.out.println("Enter a number in Inches :");
