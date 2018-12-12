@@ -23,7 +23,11 @@ public class CallMethods {
     //Main class
     public static void main(String[] argS){
         LearnPrint();
+
+        //Pass string as a parameter
         LearnParameter("Lakshmi");
+
+        //Pass 2 integers for addition
         int z = LearnAddition(3,5);
         System.out.println(z);
     }
