@@ -20,6 +20,7 @@ public class CallMethods {
         return z;
     }
 
+    //Main class
     public static void main(String[] argS){
         LearnPrint();
         LearnParameter("Lakshmi");
