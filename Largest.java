@@ -9,11 +9,7 @@ public class Largest {
     public static void main(String[] args){
         int First,Second,Third;
 
-        System.out.println("Enter 3 numbers :");
-        Scanner input = new Scanner(System.in);
-        First = input.nextInt();
-        Second = input.nextInt();
-        Third = input.nextInt();
+        
 
 
         LNumber(First,Second,Third);
