@@ -1,5 +1,6 @@
 package ExDec01;
 
+//Convert Fahenheit to Celsious
 import java.util.Scanner;
 public class FahenheitToCelsious {
     public static void main(String[] args){
