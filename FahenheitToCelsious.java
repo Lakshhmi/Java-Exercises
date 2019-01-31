@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class FahenheitToCelsious {
     public static void main(String[] args){
 
+//        Get input from user
         System.out.println("Enter temperature in Fahrenheit :");
 
         Scanner input =new Scanner(System.in);
