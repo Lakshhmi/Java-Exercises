@@ -20,6 +20,7 @@ public class MyClass {
         //Call Car Class - Constructor class with parameters
         Car myCar = new Car(2010, "Honda");
 
+//        Print Model name and year
         System.out.println("My car is " + myCar.modelName + " " + myCar.modelYear + " model");
     }
 }
