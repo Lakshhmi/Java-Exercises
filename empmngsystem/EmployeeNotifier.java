@@ -12,7 +12,9 @@ public class EmployeeNotifier implements Notifier{
     }
 
     @Override
-    public void Notifier() {
+    public void Notifier(Employee Emp, String Status) {
+        HR objHR = new HR();
+        objHR.call(Emp,Status);
 
     }
 }
