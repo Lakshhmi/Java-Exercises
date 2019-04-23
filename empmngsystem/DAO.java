@@ -6,6 +6,9 @@ import java.util.List;
 public class DAO {
     private static Integer Counter = 0;
 
+    public void generateEmp(){
+        
+    }
     public void EmpUpdate(String FName,String LName,String Doj, String Status) {
 
         Counter = Counter +1;
