@@ -12,7 +12,10 @@ public class Employee {
         this.Doj = doj;
         this.Status = status;
     }
+    public String toString(){
+        return FName +  " " + LName + " " + Doj + " " + Status;
 
+    }
     public String getFName() {
         return FName;
     }
