@@ -2,6 +2,7 @@ package com.basic2.db_connection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+//MySQL Connection from JAVA
 
 public class PracticeDbConnection {
     public static void main(String[] args) {
